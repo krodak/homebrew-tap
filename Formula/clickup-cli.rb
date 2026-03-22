@@ -13,6 +13,6 @@ class ClickupCli < Formula
   end
 
   test do
-    assert_match version.to_s, shell_output("#{bin}/cu --version")
+    assert_match version.to_s, shell_output("#{bin}/cup --version")
   end
 end

@@ -1,8 +1,8 @@
 class ClickupCli < Formula
   desc "ClickUp CLI for AI agents and humans"
   homepage "https://github.com/krodak/clickup-cli"
-  url "https://registry.npmjs.org/@krodak/clickup-cli/-/clickup-cli-1.26.1.tgz"
-  sha256 "bedc280a5077fe864cb1953c4f3a2825247df4d26a6a6354927dcee0af51fb10"
+  url "https://registry.npmjs.org/@krodak/clickup-cli/-/clickup-cli-1.26.2.tgz"
+  sha256 "06d51f49d8ed78e2e6fe74d46e8b2cce57507fc89fa3495540a2d75e29249c52"
   license "MIT"
 
   depends_on "node"
